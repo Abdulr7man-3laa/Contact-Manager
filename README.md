@@ -80,4 +80,4 @@ We welcome contributions! Here's how you can help:
 Feel free to reach out to me through the following channels:
 
 - Email: abdo.alaa.eldfy@gmail.com
-- LinkedIn: linkedin.com/in/abdulrhman-3laa
+- LinkedIn: [Abdulrhman Alaa](https://www.linkedin.com/in/abdulrhman-3laa)
