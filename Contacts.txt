@@ -1,0 +1,2 @@
+1,Alice,Johnson,3,5551234567,5552345678,5554567890,2,alice@example.com,Johnson@example.com,Family,y,10,2,1985,456,ElmSt,Smalltown,USA
+2,Ethan,Walker,1,5555678901,2,ethan@example.com,Walker@example.com,Colleague,n,12,11,1987,987,BirchSt,Centerville,USA
